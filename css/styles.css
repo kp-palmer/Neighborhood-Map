@@ -316,6 +316,7 @@ a.article, a.article:hover {
 
     #page-title {
         display: block;
+        font-size: 4vh;
     }
 
     #address {
