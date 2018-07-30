@@ -14,4 +14,4 @@ I used the Google Maps API is to show the map and markers. I used the Foursquare
 This application presents users with a Google Map populated with 10 of NYC's bubble tea shops. You can use the searchbar to filter through the list of shops. When you click on one of the shops in the sidebar, you will see an infowindow popup that has basic information about each store. 
 
 ## How to Run
-Once you are connected to the internet, download all the files and open index.html in your browser.
+Once you are connected to the internet, download all the files and open index.html in your browser. Or, view it live [here](https://kp-palmer.github.io/Neighborhood-Map/).
